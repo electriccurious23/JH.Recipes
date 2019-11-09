@@ -1,2 +1,2 @@
-# JH.Recipes
+# jh.recipes
 Awesome cooking recipes for the folks
