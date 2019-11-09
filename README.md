@@ -1,2 +1,2 @@
 # JH.Recipes
-Awesome cooking recipes for people looking to start hitting the gym more and eating better
+Awesome cooking recipes for the folks
