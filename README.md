@@ -1,7 +1,7 @@
 # jh.recipes
 <h1>Recipe 1</h1>
-1. Chicken breast 
-2. Garlic 
-3. Salt 
-4. Pepper 
-5. Olive oil 
+1. Chicken breast<br> 
+2. Garlic <br>
+3. Salt <br>
+4. Pepper <br>
+5. Olive oil <br>
