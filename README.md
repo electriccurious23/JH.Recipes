@@ -1,7 +1,7 @@
 # jh.recipes
 Recipe 1
-<p> 1. Chicken breast <br>
-2. Garlic <br>
-3. Salt <br>
-4. Pepper <br>
-5. Olive oil <br>
+1. Chicken breast 
+2. Garlic 
+3. Salt 
+4. Pepper 
+5. Olive oil 
